@@ -1,7 +1,7 @@
 ﻿# Local-Only Real-Time STT/TTS Prototype
 
 ## Project Overview
-A CPU-compatible, local speech interface prototype developed for the Cybernetic Human Lab Virtual Human project.
+A CPU-compatible, local speech interface prototype developed for the Virtual Human project.
 
 The prototype captures microphone audio, detects speech, transcribes it, generates a simple text response, converts the response into speech, and plays it automatically.
 
