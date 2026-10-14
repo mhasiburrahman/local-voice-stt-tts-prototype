@@ -1,0 +1,10 @@
+.venv/
+ExistingSystems/
+voices/
+__pycache__/
+*.pyc
+*.wav
+.env
+.env.*
+*-backup.py
+*_backup.py

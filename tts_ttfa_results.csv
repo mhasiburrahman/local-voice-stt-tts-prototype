@@ -1,0 +1,9 @@
+test_id,category,text,ttfa_seconds,total_generation_seconds,audio_chunks
+TTFA01,Short,"Hello, how are you?",0.125,0.125,1
+TTFA02,Normal,Good morning. I hope you are having a wonderful day.,0.088,0.269,2
+TTFA03,Numbers,The meeting starts at nine thirty and finishes at eleven forty five.,0.285,0.285,1
+TTFA04,Technical,Artificial intelligence can convert written text into natural sounding speech.,0.321,0.321,1
+TTFA05,Technical,Voice activity detection identifies when a person starts and stops speaking.,0.357,0.357,1
+TTFA06,Project,This local system combines speech recognition and text to speech technology.,0.638,0.638,1
+TTFA07,Long,The purpose of this experiment is to evaluate the latency efficiency and resource consumption of a completely local text to speech system.,1.105,1.105,1
+TTFA08,Long,A virtual human should be able to listen to a user understand spoken language generate a response and produce understandable speech.,0.512,0.512,1

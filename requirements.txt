@@ -1,0 +1,9 @@
+faster-whisper
+silero-vad
+piper-tts
+sounddevice
+numpy
+torch
+scipy
+jiwer
+psutil

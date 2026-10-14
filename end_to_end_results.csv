@@ -1,0 +1,6 @@
+test,transcription,response,stt_latency_seconds,response_latency_seconds,tts_ttfa_seconds,tts_total_seconds,endpoint_to_first_audio_seconds
+1,"Hello, how are you doing today?",Hello. Nice to hear from you.,0.442,3e-06,0.063,0.198,0.602
+2,"Good morning, I'm testing my local voice system.",Good morning. I hope you are having a good day.,0.396,4e-06,0.081,0.239,0.538
+3,What is your name?,I am your local virtual human system.,0.386,4e-06,0.218,0.218,0.664
+4,And this is a test of real-time speech recognition.,I heard what you said.,0.437,4e-06,0.134,0.134,0.631
+5,Thank you for helping me with this project.,You're welcome.,0.409,4e-06,0.083,0.083,0.552

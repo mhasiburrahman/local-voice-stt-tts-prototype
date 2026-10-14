@@ -1,0 +1,9 @@
+test_id,category,text,word_count,synthesis_time_seconds,audio_duration_seconds,tts_rtf
+TTS01,Short,"Hello, how are you?",4,0.114,1.324,0.086
+TTS02,Normal,Good morning. I hope you are having a wonderful day.,10,0.2,3.251,0.061
+TTS03,Numbers,The meeting starts at nine thirty and finishes at eleven forty five.,12,0.341,4.992,0.068
+TTS04,Technical,Artificial intelligence can convert written text into natural sounding speech.,10,0.523,5.735,0.091
+TTS05,Technical,Voice activity detection identifies when a person starts and stops speaking.,11,0.677,5.468,0.124
+TTS06,Project,This local system combines speech recognition and text to speech technology.,11,0.501,5.352,0.094
+TTS07,Long,The purpose of this experiment is to evaluate the latency efficiency and resource consumption of a completely local text to speech system.,22,0.58,8.777,0.066
+TTS08,Long,A virtual human should be able to listen to a user understand spoken language generate a response and produce understandable speech.,21,0.586,9.392,0.062

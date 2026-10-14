@@ -1,0 +1,21 @@
+test_id,category,model,reference,transcription,audio_duration_seconds,stt_latency_seconds,rtf,wer_percent,process_ram_mb,ram_change_mb
+T01,Short / Normal,tiny.en,"Hello, how are you today?","Hello, how are you today?",2.399,0.388,0.162,0.0,177.8,16.7
+T02,Normal,tiny.en,The quick brown fox jumps over the lazy dog.,quick brown fox jumps over the lazy dog.,3.345,0.465,0.139,11.11,176.9,-1.0
+T03,Numbers,tiny.en,The meeting starts at nine thirty and finishes at eleven forty five.,The meeting starts at 9.30 and finishes at 11.45.,4.997,0.469,0.094,41.67,178.3,1.4
+T04,Technical,tiny.en,Artificial intelligence can convert human speech into written text.,Artificial intelligence can convert human speech into beta text.,4.268,0.483,0.113,11.11,178.4,0.1
+T05,Technical,tiny.en,Voice activity detection identifies when a person starts and stops speaking.,Voice activity detection identifies when a person starts and stops speaking.,5.693,0.504,0.089,0.0,178.6,0.3
+T06,Project terminology,tiny.en,The local system uses speech recognition and text to speech technology.,The local system uses speech recognition and text speech technology.,5.117,0.882,0.172,9.09,178.6,0.0
+T07,Long sentence,tiny.en,The purpose of this experiment is to evaluate the accuracy latency and efficiency of a local speech recognition system.,The purpose of this experiment is to evaluate the accuracy latency and efficiency of a local speech recognition system.,6.923,0.735,0.106,0.0,179.2,0.6
+T08,Names / Places,tiny.en,Hasibur travelled from London to Cardiff on Saturday morning.,Hasibur travel from London to Cardiff on Saturday morning.,4.603,0.397,0.086,11.11,178.8,-0.4
+T09,Fast speech,tiny.en,I need to finish my university project before the meeting tomorrow.,I need to finish my university project before the meeting tomorrow.,4.448,0.557,0.125,0.0,178.8,0.0
+T10,Slow speech,tiny.en,This sentence is being spoken slowly and clearly.,The sentence is being spoken slowly and clearly.,3.78,0.492,0.13,12.5,178.6,-0.2
+T01,Short / Normal,base.en,"Hello, how are you today?","Hello, how are you today?",2.399,0.991,0.413,0.0,239.7,13.6
+T02,Normal,base.en,The quick brown fox jumps over the lazy dog.,The quick brown fox jumps over the lazy dog.,3.345,0.744,0.222,0.0,239.9,0.3
+T03,Numbers,base.en,The meeting starts at nine thirty and finishes at eleven forty five.,The meeting starts at 9.30 and finishes at 11.45.,4.997,1.318,0.264,41.67,239.8,-0.2
+T04,Technical,base.en,Artificial intelligence can convert human speech into written text.,Artificial intelligence can convert human speech into written text.,4.268,0.878,0.206,0.0,239.9,0.1
+T05,Technical,base.en,Voice activity detection identifies when a person starts and stops speaking.,voice activity detection identifies when a person starts and stops speaking.,5.693,0.773,0.136,0.0,240.2,0.3
+T06,Project terminology,base.en,The local system uses speech recognition and text to speech technology.,The local system uses speech recognition and text-to-speech technology.,5.117,1.331,0.26,27.27,239.6,-0.6
+T07,Long sentence,base.en,The purpose of this experiment is to evaluate the accuracy latency and efficiency of a local speech recognition system.,"The purpose of this experiment is to evaluate the accuracy, latency, and efficiency of a local speech recognition system.",6.923,0.984,0.142,10.53,240.7,1.1
+T08,Names / Places,base.en,Hasibur travelled from London to Cardiff on Saturday morning.,Hasibur travel from London to Cardiff on Saturday morning,4.603,0.753,0.163,22.22,238.8,-1.9
+T09,Fast speech,base.en,I need to finish my university project before the meeting tomorrow.,I need to finish my university project before the meeting tomorrow.,4.448,1.419,0.319,0.0,239.8,1.0
+T10,Slow speech,base.en,This sentence is being spoken slowly and clearly.,The sentence is being spoken slowly and clearly.,3.78,1.009,0.267,12.5,238.8,-1.0
